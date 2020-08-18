@@ -1,0 +1,15 @@
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\bin\Debug\DesktopHeadHanter.exe.config
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\bin\Debug\DesktopHeadHanter.exe
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\bin\Debug\DesktopHeadHanter.pdb
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\obj\Debug\DesktopHeadHanter.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\obj\Debug\DesktopHeadHanter.Form1.resources
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\obj\Debug\DesktopHeadHanter.Properties.Resources.resources
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\obj\Debug\DesktopHeadHanter.csproj.GenerateResource.cache
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\obj\Debug\DesktopHeadHanter.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\obj\Debug\DesktopHeadHanter.csproj.CopyComplete
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\obj\Debug\DesktopHeadHanter.exe
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\obj\Debug\DesktopHeadHanter.pdb
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\obj\Debug\DesktopHeadHanter.Form2.resources
+C:\Users\usr\source\repos\DesktopHeadHanter\DesktopHeadHanter\obj\Debug\DesktopHeadHanter.Form3.resources
